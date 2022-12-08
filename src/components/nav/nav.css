@@ -9,6 +9,7 @@ nav {
     bottom: 2rem;
     display: flex;
     gap: 0.8rem;
+    z-index: 1000 !important;
     border-radius: 3rem;
     backdrop-filter: blur(15px);
 }
